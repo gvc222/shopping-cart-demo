@@ -11,7 +11,7 @@ function App() {
       <ShopContextProvider>
         <Router>
           <Navbar />
-          <Routes>
+          <Routes >
             <Route path='/' element={<Shop />} />
             <Route path='/cart' element={<Cart />} />
           </Routes>

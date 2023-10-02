@@ -1,5 +1,8 @@
-/* * {
-    color: white;
-    background: #3f3f3f;
-} */
+
+ /* background-color: rgb(147, 29, 49); */
+
+.App {
+    font-family: 'Fasthand', cursive;
+    background-color: rgb(255, 243, 245);
+}
 
